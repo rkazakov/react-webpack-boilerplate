@@ -43,6 +43,8 @@
     "express-ejs-layouts": "2.0.0",
     "react": "0.14.6",
     "react-dom": "0.14.6",
+    "react-redux": "4.4.5",
+    "redux": "3.6.0",
     "webpack": "1.12.12"
   },
   "devDependencies": {
