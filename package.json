@@ -44,7 +44,9 @@
     "react": "0.14.6",
     "react-dom": "0.14.6",
     "react-redux": "4.4.5",
+    "react-slick": "0.14.5",
     "redux": "3.6.0",
+    "slick-carousel": "1.6.0",
     "webpack": "1.12.12"
   },
   "devDependencies": {
@@ -59,6 +61,8 @@
     "babel-preset-stage-0": "6.3.13",
     "coveralls": "2.11.6",
     "css-loader": "0.23.1",
+    "file-loader": "0.9.0",
+    "image-webpack-loader": "3.0.0",
     "jest-cli": "0.8.2",
     "node-sass": "3.4.2",
     "react-addons-test-utils": "0.14.6",

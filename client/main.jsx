@@ -1,5 +1,7 @@
 'use strict';
 
+import 'styles/slick.scss'
+import 'styles/slick-theme.scss'
 import 'styles/main.scss'
 
 import React from 'react'
